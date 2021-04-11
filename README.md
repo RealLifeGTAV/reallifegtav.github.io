@@ -1,2 +1,2 @@
-# reallifegtav.github.io
-Repository für RageMP Handy Websiten
+# RageMP Handy Websiten
+Hier sind alle Websiten von Spielern gespeichert.
